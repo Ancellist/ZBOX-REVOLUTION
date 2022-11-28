@@ -1,0 +1,13 @@
+.container{
+	margin: 0px 0px;
+}
+
+body{
+	margin: 0px;
+}
+
+.header-line{
+	padding-top: 10px;
+	display: flex;
+	align-items: center;
+}
